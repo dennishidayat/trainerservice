@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: trainer-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: CODE.ID
+Implementation-Vendor-Id: com.enigma.task
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/trainer-service
+Created-By: Maven Integration for Eclipse
+
